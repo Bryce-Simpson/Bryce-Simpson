@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python/Java/C++ and JS/CSS/.NET
 - 💞️ I’m looking to collaborate on any projects where I can learn
 - 📫 How to reach me: https://www.linkedin.com/in/bryce-simpson/
+- Personal site: https://bryce-simpson.github.io
 
 <!---
 Bryce-Simpson/Bryce-Simpson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
